@@ -121,14 +121,25 @@ const tanuja = {
 - 🖥️ Desktop GUI with responsive layout
 
 ---
-### 🏠 Property Rental Management System
-- Property Listing
-- Tenant Management
-- Booking System
-- Payment Tracking
-- Receipt Generation
-- Java Swing + JDBC + MySQL
+### 🏠 Property Rental Management System – Smart Property Booking Platform
 
+[![Property Rental System](https://img.shields.io/badge/Property%20Rental%20Management-JAVA-orange?style=for-the-badge\&logo=java)]()
+
+**Tech Stack:** `Java Swing` `JDBC` `MySQL`
+
+🎯 **Features:**
+
+* 🏢 Property listing and management
+* 👤 Tenant registration and profile management
+* 📅 Property booking with availability tracking
+* 💳 Rent payment management system
+* 🧾 Automatic receipt generation after payment
+* 📊 Admin dashboard for monitoring properties and bookings
+* 🔄 Property status updates (Vacant / Occupied)
+* 💾 Secure data storage using MySQL database
+* 🖥️ Professional desktop GUI built with Java Swing
+
+---
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanujarandave)  
