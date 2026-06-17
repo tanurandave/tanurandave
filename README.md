@@ -121,6 +121,13 @@ const tanuja = {
 - 🖥️ Desktop GUI with responsive layout
 
 ---
+### 🏠 Property Rental Management System
+- Property Listing
+- Tenant Management
+- Booking System
+- Payment Tracking
+- Receipt Generation
+- Java Swing + JDBC + MySQL
 
 ## 🤝 Connect with Me
 
