@@ -149,8 +149,6 @@ const tanuja = {
 📫 **Email:** [randavetanuja@gmail.com](mailto:randavetanuja@gmail.com)
 
 
-📫 Email: randavetanuja@gmail.com
-
 ---
 
 > *"Code is the closest thing we have to a superpower. Use it to build something great!"* 💻✨
