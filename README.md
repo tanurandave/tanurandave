@@ -148,7 +148,7 @@ const tanuja = {
 
 📫 **Email:** [randavetanuja@gmail.com](mailto:randavetanuja@gmail.com)
 
-🌐 **Portfolio:** https://your-portfolio-link.com
+🌐 **Portfolio:**[ https://your-portfolio-link.com](https://tanuja-randave-portfollio.vercel.app/)
 
 📫 Email: randavetanuja@gmail.com
 
