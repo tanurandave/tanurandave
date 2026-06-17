@@ -144,7 +144,7 @@ const tanuja = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanujarandave)  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-purple?style=flat\&logo=google-chrome)]([https://your-portfolio-link.com](https://tanuja-randave-portfollio.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-purple?style=flat\&logo=google-chrome)](https://tanuja-randave-portfollio.vercel.app))
 
 📫 **Email:** [randavetanuja@gmail.com](mailto:randavetanuja@gmail.com)
 
